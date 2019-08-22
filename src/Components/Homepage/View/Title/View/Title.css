@@ -1,0 +1,46 @@
+.header_img{
+    margin-top: 150px;
+    width: 100%;
+    height: auto;
+
+}
+
+.title{
+    margin-top:70%;
+
+
+}
+
+#xanga{
+
+    font-family: "Open Sans Bold", "Open Sans Regular", "Open Sans";
+
+    font-size: 48px;
+    color: #424F87;
+    font-weight: 700;
+}
+
+#investment{
+    font-size: 30px;
+    font-family: "Open Sans Bold", "Open Sans Regular", "Open Sans";
+    color: #424F87;
+    font-weight: 700;
+    width: 100%;
+
+}
+
+#group {
+    color: #424F87;
+    font-weight: 700;
+    font-family: "Open Sans Bold", "Open Sans Regular", "Open Sans";
+    font-size: 20px;
+
+}
+
+#paragraph{
+    font-family: 'Open Sans SemiBold', 'Open Sans Regular', 'Open Sans';
+    color: #424F87;
+    font-size: 18px;
+
+}
+

@@ -1,0 +1,60 @@
+.locations{
+    background-color: rgba(237, 246, 255, 1);
+    margin-top: 100px;
+    padding-bottom: 200px;
+}
+
+#title{
+    font-size: 32px;
+    font-weight: bold;
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.card-body{
+    background-color: #424F87;
+
+}
+
+
+.card-text{
+   color: #B3D0EA;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+#mapimage>img{
+    width: 100%;
+    height: auto;
+}
+.card-deck{
+
+    margin-top: 100px;
+}
+.card{
+    position: relative;
+}
+.imgcircle>img{
+    position:absolute;
+    top: 50%;
+    left: 10%;
+    width: 17%;
+    height: auto;
+}
+
+.icon{
+    display: inline;
+    color: white;
+    position: absolute;
+    right: 10%;
+}
+.icon2{
+    display: inline;
+    color: white;
+    position: absolute;
+    right: 10%;
+    bottom: 4%;
+
+}

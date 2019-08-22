@@ -1,0 +1,25 @@
+.full_references{
+    background: white;
+width: 100%;
+    height:auto;
+}
+.background_references{
+    background-image: url("../../../../../assets/refBg.png");
+    width: 100%;
+    height:auto;
+}
+.title_references{
+    font-weight: 700;
+    font-size: 32px;
+    color:#2A3470;
+margin: 40px 0px;
+    text-align: center;
+
+}
+img_references{
+    box-sizing: border-box;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px rgba(237, 246, 255, 1);
+    padding: 10% 10%;
+
+}

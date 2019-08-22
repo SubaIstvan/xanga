@@ -1,0 +1,25 @@
+.full{
+    background: linear-gradient(-5.07960786001459deg, rgba(66, 79, 135, 1) 65%, rgba(42, 50, 94, 1) 102%);
+    width: 100%;
+    height: auto;
+
+}
+
+.awards{
+    background-image:url("../../../../../assets/awardBg.png");
+width: 100%;
+    height: auto;
+
+
+}
+
+.title_awards{
+    font-weight: 700;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin:0px 0px;
+    padding-top:100px;
+    padding-bottom: 40px;
+}
+
