@@ -14,8 +14,9 @@ const cards = () =>
 
 
             <p className='title2'>Industrial park of the year</p>
-
+                <hr  className='line'/>
             <p className='paragraf_text'>Debreceni Regionális és innovációs Tudományos<br/> Technológiai Park</p>
+                <hr className='line'/>
             </div>
         </div>
     )

@@ -1,0 +1,89 @@
+.about{
+    margin-top:10%;
+    align-items: center ;
+}
+
+.about_us{
+    background: #EDF6FF;
+}
+
+.our_team{
+    background: white;
+}
+
+.titles{
+    font-size: 28px;
+    color: rgb(66, 79, 135);
+    font-weight: 700;
+    padding-top:30px;
+}
+
+.text_title{
+    margin-top: 50px;
+    font-size: 21px;
+    font-weight: 700;
+    color: rgba(66, 79, 135);
+}
+
+.background_container{
+  background: url('../../../assets/XangaBars.png');
+    background-repeat:no-repeat;
+}
+
+.text_box{
+    border-left: 10px solid #DAECFD;
+    padding-left: 70px;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 40px;
+
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.circle{
+    width:30px;
+    height: 30px;
+    border-radius: 15px;
+    background: #DAECFD;
+    position: absolute;
+    left: 110px;
+
+}
+
+.date{
+    display: flex;
+    flex-direction: row;
+    padding-right: 70px;
+    padding-bottom: 40px;
+}
+
+
+.text_box_last{
+
+    padding-left: 70px;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 40px;
+
+}
+
+.person>img{
+    width: 50%;
+    height: auto;
+}
+
+.person{
+    padding-top:40px;
+display: flex;
+}
+
+.team_text{
+    padding-top:20px;
+  margin-left: 20px;
+}
+
