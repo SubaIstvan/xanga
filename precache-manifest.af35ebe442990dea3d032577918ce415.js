@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ad1fdad24898e93ec89547349438cd3",
+    "revision": "1a8146ef9aac77981600eb3904c46270",
     "url": "/xanga/index.html"
   },
   {
-    "revision": "ab18a1da66aa3434301b",
+    "revision": "c25211c209ce0d2c9b72",
     "url": "/xanga/static/css/2.9d1cca57.chunk.css"
   },
   {
-    "revision": "9071bd30f9a07710b973",
+    "revision": "611afe41debd846e22d6",
     "url": "/xanga/static/css/main.28404d98.chunk.css"
   },
   {
-    "revision": "ab18a1da66aa3434301b",
-    "url": "/xanga/static/js/2.66534409.chunk.js"
+    "revision": "c25211c209ce0d2c9b72",
+    "url": "/xanga/static/js/2.96f999dc.chunk.js"
   },
   {
-    "revision": "9071bd30f9a07710b973",
-    "url": "/xanga/static/js/main.005b7a4d.chunk.js"
+    "revision": "611afe41debd846e22d6",
+    "url": "/xanga/static/js/main.1f1f98d5.chunk.js"
   },
   {
     "revision": "38c58fcce3ab1ce4ce5d",
