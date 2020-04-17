@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2019-8-27: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Tue Aug 27 08:47:59 2019
+ By root
+
+</metadata>
+<defs>
+<font id="Flaticon" horiz-adv-x="200" >
+  <font-face 
+    font-family="Flaticon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 512 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="001-facebook" unicode="&#xf100;" horiz-adv-x="512" 
+d="M437 448c41.3516 0 75 -33.6484 75 -75v-362c0 -41.3516 -33.6484 -75 -75 -75h-121v181h76l15 90h-91v61h91v90h-91c-49.6289 0 -90 -40.3711 -90 -90v-61h-60v-90h60v-181h-151c-41.3516 0 -75 33.6484 -75 75v362c0 41.3516 33.6484 75 75 75h362zM437 448z" />
+  </font>
+</defs></svg>
