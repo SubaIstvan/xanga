@@ -1,0 +1,82 @@
+.header{
+    background-color: #424F87;
+    padding: 20px 40px;
+    color: white;
+    text-align: center;
+}
+.projectCard{
+    margin-bottom: 40px;
+}
+
+.card-image>img{
+    width: 100%;
+    height:auto;
+}
+
+.header_except {
+    background-color: #424F87;
+    padding: 10px 40px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.card_text{
+    background: white;
+    box-shadow: 0px 1px 4px rgba(66, 79, 135, 0.109803921568627);
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.price{
+    font-weight: 600;
+    font-size: 18px;
+    color: #2A325E;
+}
+
+.company{
+    font-size: 15px;
+    font-weight: 600;
+    color: #2A325E;
+}
+
+.date{
+    font-weight: 600;
+    font-size: 15px;
+    color: #5667CD;
+}
+
+.sepline2{
+
+    border:1px solid #EDF6FF;
+margin-top:0;
+    padding-top:0;
+}
+
+.flaticon-arrow-pointing-to-right{
+    padding-left: 240px;
+
+}
+
+.project_logo>p{
+
+
+
+}
+
+.project_logo{
+    background-color:#5667CD;
+font-size: 12px;
+    color:white;
+    position: absolute;
+    padding-left: 60px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-top-right-radius:20px;
+    bottom:312px;
+}
+
+card-image{
+    position: relative;
+}

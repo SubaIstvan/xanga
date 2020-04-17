@@ -1,8 +1,10 @@
 import React, {Component} from 'react';
 import Logo from '../../../../assets/logoWhite.png';
 import {Link} from "react-router-dom";
-import './Header.css'
+import './Header.css';
+
 import {ButtonToolbar, Drawer, Icon, IconButton} from "rsuite";
+
 
 class header extends Component {
     constructor(props) {
@@ -29,7 +31,7 @@ class header extends Component {
             <div id="menu_items" className="desktop">
                 <Link to="/">HOME</Link>
                 <Link to="/about">ABOUT</Link>
-                <Link to="/locations">LOCATIONS</Link>
+                <Link to="/location3">LOCATIONS</Link>
                 <Link to="/projects">PROJECTS</Link>
                 <Link to="/news">NEWS</Link>
                 <Link to="/contact">CONTACT</Link>
@@ -53,7 +55,7 @@ class header extends Component {
                     <div id="drawer-menu-items">
                         <Link to="/">HOME</Link>
                         <Link to="/about">ABOUT</Link>
-                        <Link to="/locations">LOCATIONS</Link>
+                        <Link to="/location3">LOCATIONS</Link>
                         <Link to="/projects">PROJECTS</Link>
                         <Link to="/news">NEWS</Link>
                         <Link to="/contact">CONTACT</Link>

@@ -31,3 +31,13 @@ body{
     background-repeat: no-repeat;
 
 }
+
+#drawer-menu-items>a{
+    color: white;
+    padding-left: 20px;
+    margin-right: 20px;
+padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 16px;
+    text-decoration: none;
+}

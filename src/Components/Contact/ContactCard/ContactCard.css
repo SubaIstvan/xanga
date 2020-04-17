@@ -1,0 +1,47 @@
+.card_header{
+    color: #EDF6FF;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: rgba(66, 79, 135, 1);
+    padding:30px 40px;
+    height: 110px;
+}
+
+.full_contactcard{
+    padding-top:50px ;
+}
+
+.card_body{
+    background: white;
+padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 80px;
+    height: 300px;
+}
+
+.paragraf1{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    color: #2A325E;
+}
+
+.paragraf2{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    color: #5667CD;
+}
+
+.contact_card{
+    box-shadow: 0px 1px 4px rgba(66, 79, 135, 0.109803921568627);
+}
+
+.contact_card>img{
+    position: absolute;
+    width: 40px;
+    height: auto;
+    top:20%;
+    left: 38%;
+}

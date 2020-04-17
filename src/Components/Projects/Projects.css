@@ -1,0 +1,24 @@
+.projects{
+    background: #EDF6FF;
+    margin-top:10%;
+    margin-bottom: 10%;
+}
+
+.project_title{
+    font-size: 28px;
+    color: #424F87;
+    font-weight: 700;
+    padding:40px 40px;
+    background: url("../../assets/XangaBars.png");
+    background-size: 400px;
+
+    background-repeat: no-repeat;
+}
+
+.sepline{
+    width: 90%;
+
+    border: 1px solid rgba(82, 94, 157, 1);
+    margin-bottom: 40px;
+
+}

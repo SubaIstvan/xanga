@@ -7,6 +7,7 @@ import  logo4 from '../../../../../assets/shaelfer_logo.png';
 
 
 
+
 const references = () =>
 {
     return(
@@ -15,37 +16,37 @@ const references = () =>
             <p className='title_references'>REFERENCES</p>
         <div className='container'>
             <div className='row'>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <div className='img_references'>
                         <img src={logo1} />
                     </div>
                 </div>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo2} />
                 </div>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo3} />
                 </div>
             </div>
             <div className='row'>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo4} />
                 </div>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo1} />
                 </div>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo4} />
                 </div>
             </div>
             <div className='row'>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo2} />
                 </div>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo3} />
                 </div>
-                <div className='col col-sm-4 form-group'>
+                <div className='col col-md-4 form-group'>
                     <img src={logo2} />
                 </div>
             </div>

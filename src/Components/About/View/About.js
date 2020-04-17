@@ -13,7 +13,7 @@ const about = () => {
             <div className='container'>
                 <div className='row'>
                     <div className='about_us'>
-                    <div className='col col-6'>
+                    <div className='col col-12'>
                         <div className='background_container'>
                         <p className='titles'>ABOUT US</p>
                         <p className='text_title'>Company</p>
@@ -84,7 +84,7 @@ const about = () => {
                     </div>
                     </div>
                     <div className='our_team'>
-                    <div className='col col-6'>
+                    <div className='col col-12'>
                         <p className='titles'>OUR TEAM</p>
                         <div className='persons'>
                             <div className='person'>
@@ -95,6 +95,26 @@ const about = () => {
                                 <p className='name'>István Herdon</p>
                                 <p className='carrier'>CEO</p>
                             </div>
+
+                            </div>
+                            <div className='person'>
+
+                                <img src={user_img} />
+
+                                <div className='team_text'>
+                                    <p className='name'>László Herdon</p>
+                                    <p className='carrier'>Director</p>
+                                </div>
+
+                            </div>
+                            <div className='person'>
+
+                                <img src={user_img} />
+
+                                <div className='team_text'>
+                                    <p className='name'>Endre Csukás</p>
+                                    <p className='carrier'>Director</p>
+                                </div>
 
                             </div>
                         </div>

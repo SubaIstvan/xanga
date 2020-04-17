@@ -1,6 +1,8 @@
 .about{
     margin-top:10%;
     align-items: center ;
+    margin-bottom: 7%;
+
 }
 
 .about_us{
@@ -9,6 +11,8 @@
 
 .our_team{
     background: white;
+    height: 900px;
+    background:   url('../../../assets/refBg.png');
 }
 
 .titles{
@@ -28,6 +32,7 @@
 .background_container{
   background: url('../../../assets/XangaBars.png');
     background-repeat:no-repeat;
+  background-size: 300px;
 }
 
 .text_box{
@@ -51,7 +56,7 @@
     border-radius: 15px;
     background: #DAECFD;
     position: absolute;
-    left: 110px;
+    left: 105px;
 
 }
 
@@ -73,7 +78,7 @@
 }
 
 .person>img{
-    width: 50%;
+    width: 30%;
     height: auto;
 }
 
@@ -85,5 +90,26 @@ display: flex;
 .team_text{
     padding-top:20px;
   margin-left: 20px;
+}
+
+.name{
+    font-weight: 700;
+    color: #424F87;
+    font-size: 18px;
+}
+
+.carrier{
+    font-weight: 700;
+    font-size: 14px;
+    color: #5667CD;
+}
+
+.persons{
+
+    width: 100%;
+    height:auto;
+
+    background-position: bottom;
+
 }
 

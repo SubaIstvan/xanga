@@ -1,0 +1,132 @@
+
+.full_location2{
+    margin-top:120px;
+}
+
+.location_background{
+    background-color: rgba(237, 246, 255, 1);
+}
+
+.location_title{
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color: #424F87;
+
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.location_titles{
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px;
+    color: #424F87;
+    margin-top: 40px;
+    padding-left: 40px;
+}
+
+.location_text{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #2A325E;
+
+    padding-left: 40px;
+}
+.sepline2{
+    width: 90%;
+
+    border: 1px solid #F1F8FF;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}
+.location_background>img{
+    width: 100%;
+    height: auto;
+}
+
+.xanga_background{
+    background: url("../../assets/XangaBars.png");
+    background-size: 400px;
+    background-repeat: no-repeat;
+}
+
+.images>img{
+    width: 85%;
+    height: auto;
+    margin-bottom: 40px;
+}
+
+.small_device{
+    display: none;
+}
+
+.small_device>img{
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 767px)
+{
+    .location_background{ background: none }
+    .location_background>img{ display: none }
+    .small_device{ display: block}
+}
+
+.box{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #424F87;
+    line-height: 30px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(237, 246, 255, 1);
+    border-radius: 0px;
+    box-shadow: 5px 5px 5px rgba(237, 246, 255, 1);
+    width: 400px;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+}
+
+.other_titles{
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px;
+    color: #424F87;
+    margin-top: 40px;
+    padding-left: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.boxes{
+    margin-bottom: 50px;
+}
+
+.more{
+    background-color: rgba(66, 79, 135, 1);
+    color:white;
+
+    position: absolute;
+    right: 160px;
+    bottom: 0px;
+    width: 122px;
+    height: 44px;
+}
+
+#more_text{
+
+
+color:white;
+}
+
+.location2_icon>i{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}

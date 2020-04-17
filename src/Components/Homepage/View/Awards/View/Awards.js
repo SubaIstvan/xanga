@@ -10,22 +10,22 @@ return(
         <p className='title_awards'>AWARDS</p>
         <div className='container'>
             <div className='row'>
-                <div className='col col-sm-4'>
+                <div className='col col-md-4'>
         <Card/>
                 </div>
-                    <div className='col col-sm-4'>
+                    <div className='col col-md-4'>
             <Card/>
                     </div>
-                        <div className='col col-sm-4'>
+                        <div className='col col-md-4'>
 
             <Card/>
                         </div>
             </div>
                 <div className='row'>
-                            <div className='col col-sm-4'>
+                            <div className='col col-md-4'>
             <Card/>
                             </div>
-                                <div className='col col-sm-4'>
+                                <div className='col col-md-4'>
             <Card/>
         </div>
                             </div>

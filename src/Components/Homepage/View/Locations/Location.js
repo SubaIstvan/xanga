@@ -10,6 +10,7 @@ import cicrleImage2 from '../../../../assets/office circle.png';
 import circleImage3 from '../../../../assets/Flight circle.png';
 import circleImage4 from  '../../../../assets/gear circle 2.png';
 import '../../../../assets/icons/font/flaticon.css';
+import {NavLink} from 'react-router-dom';
 
 
 
@@ -24,7 +25,9 @@ const locations = () => {
                     <div className='row'>
                     <div className='col'>
                     <div className="card-deck">
+
                         <div className="card">
+                            <NavLink to='/location2'>
                             <img src={workimage2} className="card-img-top" alt="..."/>
                             <div className='imgcircle'>
                             <img src={cicrleImage1} alt='...'/>
@@ -34,12 +37,15 @@ const locations = () => {
                                     <p className="card-text">
                                         Debrecen Regional Innovation Science and Techonlogy Park.</p>
                                     <div className='icon2'>
-                                        <i className='flaticon-long-arrow-pointing-to-the-right' />
+                                        <i className='flaticon-arrow-pointing-to-right' />
                                     </div>
 
                                 </div>
+                            </NavLink>
                         </div>
+
                         <div className="card">
+                            <NavLink to='/location2'>
                             <img src={workimage4} className="card-img-top" alt="..."/>
                             <div className='imgcircle'>
                                 <img src={cicrleImage2} alt='...'/>
@@ -49,13 +55,16 @@ const locations = () => {
                                     <p className="card-text">
                                         Start-up incubator.</p>
                                     <div className='icon'>
-                                    <i className='flaticon-long-arrow-pointing-to-the-right' />
+                                    <i className='flaticon-arrow-pointing-to-right' />
                                     </div>
                                 </div>
+                            </NavLink>
                         </div>
+
                         </div>
                         <div className="card-deck">
                             <div className="card">
+                                <NavLink to='/location2'>
                                 <img src={workimage1} className="card-img-top" alt="..."/>
                                 <div className='imgcircle'>
                                     <img src={circleImage3} alt='...'/>
@@ -65,11 +74,13 @@ const locations = () => {
                                     <p className="card-text">
                                         Debrecen International Airport Multimodal Logistics Center.</p>
                                     <div className='icon2'>
-                                    <i className='flaticon-long-arrow-pointing-to-the-right' />
+                                    <i className='flaticon-arrow-pointing-to-right' />
                                     </div>
                                 </div>
+                                </NavLink>
                             </div>
                             <div className="card">
+                                <NavLink to='/location2'>
                                 <img src={workimage3} className="card-img-top" alt="..."/>
                                 <div className='imgcircle'>
                                     <img src={circleImage4} alt='...'/>
@@ -80,9 +91,10 @@ const locations = () => {
 
                                         Sourthen Industrial Park </p>
                                     <div className='icon'>
-                                    <i className='flaticon-long-arrow-pointing-to-the-right' />
+                                    <i className='flaticon-arrow-pointing-to-right' />
                                     </div>
                                 </div>
+                                </NavLink>
                             </div>
                         </div>
                 </div>

@@ -1,0 +1,59 @@
+.full_news{
+    margin-top: 100px;
+    margin-bottom:100px ;
+}
+
+
+.news_titles{
+background: url("../../../assets/XangaBars.png");
+    background-size: 400px;
+    background-repeat: no-repeat;
+}
+
+.news{
+    background: #EDF6FF;
+    height: 100%;
+}
+
+#title1{
+    font-weight: 700;
+    font-size: 28px;
+    color: rgb(66, 79, 135);
+    padding-bottom: 70px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+#title2{
+    font-weight: 700;
+    font-size: 21px;
+    color: rgb(66, 79, 135);
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+
+#loremipsum{
+    font-size: 18px;
+    color: rgb(42, 50, 94);
+    padding-bottom: 30px;
+}
+
+#fb{
+    font-size: 18px;
+    color: rgb(42, 50, 94);
+}
+
+.news_text{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.fb_elements{
+    display: flex;
+
+}
+
+.flaticon-facebook{
+    margin-right:30px ;
+    color:rgb(42, 50, 94) ;
+}
